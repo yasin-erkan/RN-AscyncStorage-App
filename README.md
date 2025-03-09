@@ -1,5 +1,6 @@
 # AsyncStorage React Native App
-preview
+![AsyncStorage-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c0558323-2c64-4112-b1b5-dc0d742778ee)
+
 
 
 This is a React Native project that utilizes `@react-native-async-storage/async-storage` for local storage, along with `lottie-react-native` for animations.
